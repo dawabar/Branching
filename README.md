@@ -1,5 +1,6 @@
 ## Git Command Cheat Sheet
 
+Overview and cheat sheet of git commands.
 
 ### Basic Commands
 
